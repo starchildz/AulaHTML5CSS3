@@ -1,0 +1,23 @@
+body {
+    background:rgb(191, 229, 238) ;
+    margin-left: 60px
+}
+
+h1 {
+    font-family: cursive;
+    
+}
+
+h2 {
+    font-family: cursive;
+    margin: 50;
+}
+
+header {
+    margin-top: 150px;
+}
+
+.img_pdrao {
+    width: 250px;
+    height: 250px;
+}
